@@ -1,0 +1,19 @@
+
+body{
+padding:0px;
+margin:0px;
+background-color: green;
+background-size:100%;
+}
+.block{
+margin: 0 auto;
+background-color: #fff;
+width: 75%;
+padding:1.5% 5%;
+
+}
+.header{
+
+text-align: center;
+line-height: 40%;
+}
